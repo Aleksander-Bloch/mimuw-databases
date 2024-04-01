@@ -1,0 +1,1 @@
+Stwórz model logiczny dla swojego rozwiązania Zadania 6 z poprzedniego labu. Rozwiązanie należy oddać w formie definicji tabel w SQLu. Definicje te trzeba wkleić w polu tekstowym na rozwiązanie zadania. 
